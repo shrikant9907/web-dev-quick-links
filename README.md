@@ -14,7 +14,7 @@
 
 ## How to Use WebDevQuickLinks
 
-1. **Visit the Website**: Go to [WebDevQuickLinks.com](https://WebDevQuickLinks.com).
+1. **Visit the Website**: Go to [reacttonext.com](https://reacttonext.com/web-dev-quick-links.com).
 2. **Browse Categories**: Explore various categories like Documentation, Tutorials, Tools, and Frameworks.
 3. **Search**: Use the search bar to find specific resources.
 4. **Feedback**: Leave comments and ratings on resources to help the community.
@@ -31,4 +31,4 @@ Using WebDevQuickLinks regularly will enhance your development workflow by:
 
 ## Get Started Now!
 
-Join the community of developers and learners who are making the most out of their coding journey with WebDevQuickLinks. Visit [Web Dev Quick Links](https://http://reacttonext.com/web-dev-quick-links.com) and start exploring today!
+Join the community of developers and learners who are making the most out of their coding journey with WebDevQuickLinks. Visit [Web Dev Quick Links](https://reacttonext.com/web-dev-quick-links.com) and start exploring today!
